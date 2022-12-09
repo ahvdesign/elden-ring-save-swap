@@ -1,0 +1,30 @@
+{
+  "name": "elden-ring-save-swap",
+  "version": "1.0.0",
+  "description": "App that swaps Elden Ring save folders, similar to swapping out memmory cardson retro consoles.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahvdesign/elden-ring-save-swap.git"
+  },
+  "keywords": [
+    "elden",
+    "ring",
+    "save",
+    "swap",
+    "save",
+    "manager"
+  ],
+  "author": "Alexander Henriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahvdesign/elden-ring-save-swap/issues"
+  },
+  "homepage": "https://github.com/ahvdesign/elden-ring-save-swap#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
